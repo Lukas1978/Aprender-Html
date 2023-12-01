@@ -19,19 +19,5 @@ Despues haremos le damos a file y le tenemos que poner un nombre se llamara indi
 
 # Parrafos H1 H2 etc
 
-Primero dale a ! y te tendra que salir un ! dale enter y tendras una lista de codigo como esta
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Document</title>
-</head>
-<body>
-    
-</body>
-</html>
-
-no te asustes te voy a explicar lo que significa 
+Primero dale a ! y te tendra que salir un ! dale enter y tendras una lista de codigo no te asustes te voy a explicar lo que significa 
 
