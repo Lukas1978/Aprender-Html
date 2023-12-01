@@ -21,9 +21,7 @@ Despues haremos le damos a file y le tenemos que poner un nombre se llamara indi
 
 Primero dale a ! y te tendra que salir un ! dale enter y tendras una lista de codigo no te asustes te voy a explicar lo que significa 
 
-<!DOCTYPE html> Esto te esta diciendo que tipo de lenguage de programacion vas a usar
+!DOCTYPE html Esto te esta diciendo que tipo de lenguage de programacion vas a usar
 
-<head>
-  
-</head>
+head se refiere a la parte de arriba
 
